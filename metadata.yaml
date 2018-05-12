@@ -1,0 +1,30 @@
+_repo: The-Natural-History-of-Cage-BirdsBreeding-and-the-Methods-of-Catching-Them._40055
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40055-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bechstein, Johann Matthäus
+    aliases:
+    - Bechstein, J. M.
+    - Bechstein, Johann Matthaus
+    birthdate: 1757
+    deathdate: 1822
+    gutenberg_agent_id: '40393'
+    url: http://www.gutenberg.org/2009/agents/40393
+description: ''
+gutenberg_issued: '2012-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cage birds'
+- !lcc 'SF'
+title: "The Natural History of Cage Birds\r\nTheir Management, Habits, Food, Diseases,\
+  \ Treatment, Breeding, and the Methods of Catching Them."
+url: http://www.gutenberg.org/ebooks/40055
